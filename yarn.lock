@@ -8593,7 +8593,7 @@ react-scripts@3.4.1:
 
 "react-tailwind-ui@https://github.com/RoryCombe/react-tailwind-ui":
   version "1.0.0"
-  resolved "https://github.com/RoryCombe/react-tailwind-ui#a89db92dc506034ca3b84532083e86ed01955a74"
+  resolved "https://github.com/RoryCombe/react-tailwind-ui#c170590da85942bc0b58fade66ed5c55697d50e8"
   dependencies:
     react "^16.13.1"
     tslib "^2.0.0"
